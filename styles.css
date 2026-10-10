@@ -28,3 +28,5 @@ body:not(.inner-page) .hero-proof{margin-top:42px;padding-top:18px;border-top:1p
 body:not(.inner-page) .hero-proof p,body:not(.inner-page) .hero-proof b{font-size:12px;line-height:1.55}
 body:not(.inner-page) .orbit-scene{height:500px;box-shadow:0 28px 80px #071a2666}
 @media(max-width:720px){body:not(.inner-page) .hero{min-height:0;padding:54px 18px 38px;gap:26px}body:not(.inner-page) .hero h1{font-size:clamp(45px,13vw,62px);letter-spacing:-3px;margin:18px 0}body:not(.inner-page) .lead{font-size:15px}body:not(.inner-page) .hero-actions{flex-wrap:wrap;margin-top:26px;gap:18px}body:not(.inner-page) .orbit-scene{height:345px}body:not(.inner-page) .hero-proof{margin-top:30px}}
+
+body:not(.inner-page) .hero h1{text-shadow:0 2px 18px #071a2666}body:not(.inner-page) .lead strong{display:block;margin-top:10px;color:#ffffff;font-weight:800}
