@@ -30,3 +30,8 @@ body:not(.inner-page) .orbit-scene{height:500px;box-shadow:0 28px 80px #071a2666
 @media(max-width:720px){body:not(.inner-page) .hero{min-height:0;padding:54px 18px 38px;gap:26px}body:not(.inner-page) .hero h1{font-size:clamp(45px,13vw,62px);letter-spacing:-3px;margin:18px 0}body:not(.inner-page) .lead{font-size:15px}body:not(.inner-page) .hero-actions{flex-wrap:wrap;margin-top:26px;gap:18px}body:not(.inner-page) .orbit-scene{height:345px}body:not(.inner-page) .hero-proof{margin-top:30px}}
 
 body:not(.inner-page) .hero h1{text-shadow:0 2px 18px #071a2666}body:not(.inner-page) .lead strong{display:block;margin-top:10px;color:#ffffff;font-weight:800}
+
+/* Blue and green homepage atmosphere */
+body:not(.inner-page) .hero:before{background:radial-gradient(circle at 84% 24%,#42d6a077 0,transparent 30%),radial-gradient(circle at 18% 94%,#1f96ff63 0,transparent 38%),linear-gradient(125deg,#062b68 0%,#075e82 49%,#08765f 100%)}
+body:not(.inner-page) .orbit-scene{background:radial-gradient(circle at 72% 25%,#4ce3b84d 0,transparent 32%),linear-gradient(145deg,#075b86,#063b69 55%,#08745e)}
+body:not(.inner-page) .hero .eyebrow{background:#062e59a8;border-color:#76e1ba77}
