@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://orbytechz.online/sitemap.xml
+Sitemap: https://orbytechz.space/sitemap.xml
